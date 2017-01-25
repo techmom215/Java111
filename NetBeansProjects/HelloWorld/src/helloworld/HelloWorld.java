@@ -1,5 +1,5 @@
 /* Hello World Application
-    Created for Spring 2016 CSCI 111
+    Created for Spring 2017 CSCI 111
     Last modified January 17, 2017
     @author Angela Andrews
 */
@@ -14,7 +14,7 @@ public class HelloWorld { //class header. The class is a public class, meaning t
      */
     public static void main(String[] args) { 
         System.out.println("Hello World!");
-        System.out.println("Hello Dr. Kernighan!");
+        
     }//end main ()
     
 } //end class HelloWorld
